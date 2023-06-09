@@ -5,11 +5,11 @@
 
 ---
 ### most active customer influx
-2021: 22.7%.
-July: 14.7%.
-check promo's impact on influx in transaction dataset.
--> promo most used in July: AZ2022
--> promo mostly used in 2021: AZ2022
+2021: 22.7%. <br/>
+July: 14.7%.<br/>
+check promo's impact on influx in transaction dataset.<br/>
+-> promo most used in July: AZ2022<br/>
+-> promo mostly used in 2021: AZ2022<br/>
 
 ---
 ### 전체 중 first created_at(first_transaction)에서 promo가 사용된 customer의 비율
