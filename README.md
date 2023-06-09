@@ -26,3 +26,6 @@ result: 0.040414957934296995 -> 4%
 first created_at(first_transaction)에서 promo가 사용된 customer의 비율에서 first 
 
 ### the number of promo code usages by each customer
+
+
+<img width="360" alt="Screen Shot 2023-06-09 at 5 39 33 PM" src="https://github.com/NARAEIM/tp2-da/assets/107841791/73010b17-18fe-45bd-80b8-0f81405220b2">
