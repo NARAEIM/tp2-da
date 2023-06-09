@@ -24,3 +24,5 @@ result: 0.040414957934296995 -> 4%
 
 ### total_amount in transaction 비교
 first created_at(first_transaction)에서 promo가 사용된 customer의 비율에서 first 
+
+### the number of promo code usages by each customer
